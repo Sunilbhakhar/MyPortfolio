@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "Developed an fully responsive personal portfolio website using React hooks for dynamic user experiences and JSON for seamless content management.",
+      "skills": ["CSS", "React", "Figma"],
+      "demo": "https://sunilbhakhar.netlify.app/",
+      "source": "https://github.com/Sunilbhakhar/MyPortfolio.git"
+    },
+    {
+      "title": "TravelNest",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a full-stack, responsive web replica of Airbnb, emphasizing the Next.js 13 App Router for enhanced routing and performance.",
+      "skills": ["Tailwind","React", "Next"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+]

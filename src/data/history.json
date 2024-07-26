@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Web Developer",
+      "organisation": "GDSC NITC",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on GDSC site development", "Volunteer for the Flutter workshop"],
+      "imageSrc": "history/gdsc.jpg"
+    },
+    {
+      "role": "Developer",
+      "organisation": "Pediaverse",
+      "startDate": "Mar, 2024",
+      "endDate": "Present",
+      "experiences": ["Developed some components of Pediaverse site"],
+      "imageSrc": "history/pediaverse.jpg"
+    }
+  ]
